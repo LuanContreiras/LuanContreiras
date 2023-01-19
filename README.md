@@ -1,7 +1,7 @@
 # Luan Contreiras
 #### Frontend Developer Junior
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/lowahn)](https://instagram.com/lowahn) 
+
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/luan-contreiras-9b9b67183/) 
   [![Gmail Badge](https://img.shields.io/badge/-luan.contreiras33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luan.contreiras33@gmail.com)](mailto:luan.contreiras33@gmail.com)
 
